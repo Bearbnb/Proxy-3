@@ -1,5 +1,33 @@
+#search {
+z-index: 900 !important;
+max-width:100%;
+
+}
+
 #booking-widget {
-  margin-left: 70%;
+  margin-right: 12% !important;
+  margin-top: 3%;
   position: sticky !important;
-  top: 100px !important
+  top: 40px !important;
+}
+
+#root {
+  margin-bottom:40px;
+}
+
+
+#app-description-service {
+  margin-right: 30% !important;
+}
+
+#AppReviewsService {
+  margin-right: 30% !important;
+}
+
+.uo6ptBBLKiDPbjFz9l4L{
+      height: 70vh !important;
+}
+
+._29NlXvvEEIQAH0FIGBrmhp {
+     bottom: 25% !important;
 }
